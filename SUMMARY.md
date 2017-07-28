@@ -1,4 +1,4 @@
-# Table of content
+# 主数据管理
 
 * [产品介绍](articles/mdm/1-/jieshao.md)
     * [产品概述](articles/mdm/1-/cpgs.md)
